@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CarWashApp/.vs
+/CarWashApp/bin
+/CarWashApp/obj
+/CarWashApp.Tests/bin
+/CarWashApp.Tests/obj
+/CarWashApplication/.vs
+/CarWashApplication/CarWashApplication/bin/Debug/net6.0
+/CarWashApplication/CarWashApplication/obj
